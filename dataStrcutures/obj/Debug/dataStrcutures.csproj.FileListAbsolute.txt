@@ -1,0 +1,6 @@
+c:\users\hp-pc\documents\visual studio 2015\Projects\dataStrcutures\dataStrcutures\bin\Debug\dataStrcutures.exe.config
+C:\Users\HP-PC\documents\visual studio 2015\Projects\dataStrcutures\dataStrcutures\bin\Debug\dataStrcutures.exe
+C:\Users\HP-PC\documents\visual studio 2015\Projects\dataStrcutures\dataStrcutures\bin\Debug\dataStrcutures.pdb
+C:\Users\HP-PC\documents\visual studio 2015\Projects\dataStrcutures\dataStrcutures\obj\Debug\dataStrcutures.csprojResolveAssemblyReference.cache
+C:\Users\HP-PC\documents\visual studio 2015\Projects\dataStrcutures\dataStrcutures\obj\Debug\dataStrcutures.exe
+C:\Users\HP-PC\documents\visual studio 2015\Projects\dataStrcutures\dataStrcutures\obj\Debug\dataStrcutures.pdb
